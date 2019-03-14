@@ -22,7 +22,7 @@ public class MobilePhone {
                 case 2 :    this.addContact();
                             break;
 
-                case 3 : break;
+                case 3 :    break;
                 case 4 : break;
                 case 5 : break;
                 default: this.isPowered = false;
